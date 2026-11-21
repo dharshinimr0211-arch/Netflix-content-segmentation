@@ -2,6 +2,10 @@
 
 A machine learning project that groups Netflix movies and TV shows into meaningful content clusters using unsupervised learning techniques.
 
+## Live Demo
+
+[Try Netflix Content Segmentation](https://netflix-content-segmentation.streamlit.app/)
+
 ## About the Project
 
 Netflix Content Segmentation is an unsupervised machine learning project developed using Python and Streamlit. It uses the Netflix Movies and TV Shows dataset to identify patterns and group titles based on their content characteristics.
@@ -51,19 +55,18 @@ Cluster distribution, genre patterns and content type distribution were visualiz
 
 ## Technologies Used
 
-| Technology     | Purpose                         |
-| -------------- | ------------------------------- |
-| Python         | Programming language            |
-| Pandas         | Data preprocessing and analysis |
-| NumPy          | Numerical operations            |
-| Scikit-learn   | Machine learning implementation |
-| K-Means        | Content clustering              |
-| StandardScaler | Feature scaling                 |
-| Matplotlib     | Data visualization              |
-| Seaborn        | Statistical visualization       |
-| Plotly         | Interactive charts              |
-| Streamlit      | Web application development     |
-| Joblib         | Saving the trained model        |
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+- K-Means Clustering
+- StandardScaler
+- Streamlit
+- Joblib
+- Jupyter Notebook
 
 ## Dataset
 
